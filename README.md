@@ -3,7 +3,7 @@
 Backend for [poetry-frontend](https://github.com/YounusMZ/poetry-frontend) made with Spring Boot. Alternative for [peotry-backend](https://github.com/YounusMZ/poetry-backend). Built for poets and poem enthusiasts, Poetry allows you to view random poems for the serendipity, search for poems and bookmark your favourites. Poetry provides a minimalist UI and allows migrating poems from a local JSON or CSV file. 
 
 ## Demo
-
+Note: The demo is for the Express version, which is identical to this one. The only difference is that this server uses Spring Boot.
 - Live Site: https://poetry-backend-wv7w.onrender.com (Note: Render free-tier does not have persistent disk, so no changes are stored on sleep. It takes about a min to start up as well.)
 - Run `docker pull ghcr.io/younusmz/poetry-backend:latest` to pull the docker image. Make a container and run. That's a quick way to spin it up.
 
